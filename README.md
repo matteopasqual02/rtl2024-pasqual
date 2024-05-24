@@ -1,3 +1,7 @@
+API project at polimi in 2023
+
+GRADE 29/30
+
 The specification of the "Final Exam (Logical Networks Project)" for the Academic Year 2023/2024 asks to implement an HW module (described in VHDL) 
 that interfaces with a memory and complies with the instructions outlined in the following specification.
 
